@@ -1,0 +1,4 @@
+*pycache*
+checkpoints/
+test*
+data/
